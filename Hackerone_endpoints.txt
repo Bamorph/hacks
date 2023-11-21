@@ -9,3 +9,10 @@
 /.htaccess
 /en-US/splunkd/__raw/services/server/info/server-info?output_mode=json
 /rest/api/2/user/picker?query=admin
+/logs
+/log
+/api/v1/nodes
+/api/v2/nodes
+/metrics
+/readme.html
+/readme.txt
