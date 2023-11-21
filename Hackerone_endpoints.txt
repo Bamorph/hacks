@@ -1,1 +1,2 @@
-/index.php
+/itraceroute/dl.log
+/+CSCOE+/session_password.html
