@@ -2,3 +2,10 @@
 /+CSCOE+/session_password.html
 /.git/
 /.git/README.md
+/.gitignore
+/.DS_Store
+/package.json
+/composer.json
+/.htaccess
+/en-US/splunkd/__raw/services/server/info/server-info?output_mode=json
+/rest/api/2/user/picker?query=admin
