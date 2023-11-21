@@ -1,2 +1,4 @@
 /itraceroute/dl.log
 /+CSCOE+/session_password.html
+/.git/
+/.git/README.md
